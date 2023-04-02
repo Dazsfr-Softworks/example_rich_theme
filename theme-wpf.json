@@ -1,0 +1,101 @@
+{
+	"LoadingWindow":{
+		"WindowBackgroundImage":{
+			"Enabled":true,
+			"Url":"http://cdn1.dazsfr.ru/assets/gigachad.jpg"
+		},
+		"WindowBackgroundColor":{
+			"Red":150,
+			"Green":0,
+			"Blue":0,
+			"Alpha":255
+		},
+		"TopbarBackgroundColor":{
+			"Red": 25,
+			"Green": 25,
+			"Blue": 25,
+			"Alpha":200
+		},
+		"TopbarForegroundColor":{
+			"Red": 255,
+			"Green": 255,
+			"Blue": 255,
+			"Alpha":255
+		},
+		"TopbarText":"SXF Legacy",
+		"TopbarLogo":{
+			"Enabled": true,
+			"Url": "http://cdn1.dazsfr.ru/assets/gigachad.jpg"
+		}
+	},
+	"ExecutorWindow":{
+		"WindowBackgroundImage":{
+			"Enabled":true,
+			"Url":"http://cdn1.dazsfr.ru/assets/gigachad.jpg"
+		},
+		"WindowBackgroundColor":{
+			"Red":150,
+			"Green":0,
+			"Blue":0,
+			"Alpha":255
+		},
+		"TopbarBackgroundColor":{
+			"Red": 25,
+			"Green": 25,
+			"Blue": 25,
+			"Alpha":200
+		},
+		"TopbarForegroundColor":{
+			"Red": 255,
+			"Green": 255,
+			"Blue": 255,
+			"Alpha":255
+		},
+		"ListBackgroundColor":{
+			"Red": 0,
+			"Green": 0,
+			"Blue": 0,
+			"Alpha":122
+		},
+		"TopbarText":"Synapse X",
+		"TopbarLogo":{
+			"Enabled": true,
+			"Url": "http://cdn1.dazsfr.ru/assets/logo-fan.png"
+		}
+	},
+	"ScriptHubWindow":{
+		"WindowBackgroundImage":{
+			"Enabled":true,
+			"Url":"http://cdn1.dazsfr.ru/assets/gigachad.jpg"
+		},
+		"WindowBackgroundColor":{
+			"Red":150,
+			"Green":0,
+			"Blue":0,
+			"Alpha":255
+		},
+		"TopbarBackgroundColor":{
+			"Red": 25,
+			"Green": 25,
+			"Blue": 25,
+			"Alpha":200
+		},
+		"TopbarForegroundColor":{
+			"Red": 255,
+			"Green": 255,
+			"Blue": 255,
+			"Alpha":255
+		},
+		"ListBackgroundColor":{
+			"Red": 0,
+			"Green": 0,
+			"Blue": 0,
+			"Alpha":122
+		},
+		"TopbarText":"Synapse X",
+		"TopbarLogo":{
+			"Enabled": true,
+			"Url": "http://cdn1.dazsfr.ru/assets/logo-fan.png"
+		}
+	}
+}
